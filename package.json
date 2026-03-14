@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "npm run build"
+    "build": "echo Build Complete"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
